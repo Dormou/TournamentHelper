@@ -17,8 +17,9 @@ As part of the Twilight Imperium board game tournaments, rating games are organi
 ### Interface layouts
 ### Data description
 ###### Entity Relationship Diagram
-![ERD](/images/erd.png)
+![ERD](/images/ERD.png)
 ###### Relational Schema
+![RS](/images/RS.png)
 ### Application architecture
 ### Used tools
 ### Development team description
